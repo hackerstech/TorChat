@@ -4,7 +4,7 @@
 
 if [ -z "$1" ]
 then
-echo -e "\033[1;32m Tor_Chat is encrypted chat over Tor service \n for more visit :\033[0m https://github.com/security-softwares"
+echo -e "\033[1;32m Tor_Chat is encrypted chat over Tor service \n for more visit :\033[0m https://github.com/hackerstech"
 echo -e "\033[1;33musage: 	sudo tor_chat -s : For server side \n	sudo tor_chat -c : For client side \033[0m \n 	tor_chat -u: uninstall"
 exit
 fi
