@@ -39,7 +39,7 @@ pip install windows-curses requests
 
 ```
 
-git clone https://github.com/security-softwares/TorChat/
+git clone https://github.com/hackerstech/TorChat
 
 cd TorChat
 bash tor_chat.sh
